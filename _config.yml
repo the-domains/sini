@@ -1,0 +1,28 @@
+name: sini
+favicon: null
+layout_spectrum: 0.8246840490028262
+typography_spectrum: 0.9400451141409576
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.021130319219082594
+  lightness: 0.01913402392528951
+  saturation: 0.7261346895247698
+  rhythmicContrast: 0.94876345875673
+purpose: []
